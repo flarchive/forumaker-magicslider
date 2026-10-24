@@ -2,24 +2,13 @@
 
 > **Read-only archive of released versions of forumaker/magicslider.** Not for installation: use [Packagist](https://packagist.org/packages/forumaker/magicslider) or the [upstream repository](https://github.com/forumaker/magicslider).
 
-**11** versions archived · Latest: [`2.5.0`](https://github.com/flarchive/forumaker-magicslider/tree/archive/v2.5.0) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`3.1.0`](https://github.com/flarchive/forumaker-magicslider/tree/archive/v3.1.0) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `1.0.0` | 2026-01-01 | `^1.8` | [Browse](https://github.com/flarchive/forumaker-magicslider/tree/archive/v1.0.0) |
-| `1.1.0` | 2026-02-24 | `^1.8` | [Browse](https://github.com/flarchive/forumaker-magicslider/tree/archive/v1.1.0) |
-| `1.3.0` | 2026-05-20 | `^1.8` | [Browse](https://github.com/flarchive/forumaker-magicslider/tree/archive/v1.3.0) |
-| `1.4.0` | 2026-05-20 | `^1.8` | [Browse](https://github.com/flarchive/forumaker-magicslider/tree/archive/v1.4.0) |
-| `2.0.0` | 2026-01-01 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicslider/tree/archive/v2.0.0) |
-| `2.1.0` | 2026-02-24 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicslider/tree/archive/v2.1.0) |
-| `2.2.0` | 2026-04-18 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicslider/tree/archive/v2.2.0) |
-| `2.2.2` | 2026-04-18 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicslider/tree/archive/v2.2.2) |
-| `2.3.0` | 2026-05-20 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicslider/tree/archive/v2.3.0) |
-| `2.4.0` | 2026-05-20 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-magicslider/tree/archive/v2.4.0) |
-
-[View all 11 versions](https://github.com/flarchive/forumaker-magicslider/tags)
+| — | — | — | — |
 
 Catalog entry: [packages/forumaker-magicslider.json](https://github.com/flarchive/archive-index/blob/main/packages/forumaker-magicslider.json)
 
